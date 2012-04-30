@@ -1,1 +1,5 @@
+#python rules
+*.pyc
+
+#project specific
 test.json
